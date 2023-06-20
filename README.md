@@ -2,7 +2,6 @@
 <div align=center><h1>🌱👩🏻‍💻 backend developer </h1></div>
 <div align=center><p>이름 : 허지영 <p></div>
 <div align=center><p>이메일 : jiyoungmerong@gmail.com <p></div>
-<div align=center><p>블로그 : https://jiyoungmerong.tistory.com/ <p></div>
 <br>
 <div align=center>
   <p><b>⭐️ Tech Stack ⭐️</b></p> 
